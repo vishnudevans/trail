@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("gittrail")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+99edb00ba6ac72cda475ad74fe82839accea5bbd")]
 [assembly: System.Reflection.AssemblyProductAttribute("gittrail")]
 [assembly: System.Reflection.AssemblyTitleAttribute("gittrail")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

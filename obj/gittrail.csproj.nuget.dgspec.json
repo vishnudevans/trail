@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Vishaal\\Desktop\\gittrail\\gittrail.csproj": {}
+    "C:\\Users\\Vishnu\\Desktop\\Demo\\trail\\gittrail.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Vishaal\\Desktop\\gittrail\\gittrail.csproj": {
+    "C:\\Users\\Vishnu\\Desktop\\Demo\\trail\\gittrail.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Vishaal\\Desktop\\gittrail\\gittrail.csproj",
+        "projectUniqueName": "C:\\Users\\Vishnu\\Desktop\\Demo\\trail\\gittrail.csproj",
         "projectName": "gittrail",
-        "projectPath": "C:\\Users\\Vishaal\\Desktop\\gittrail\\gittrail.csproj",
-        "packagesPath": "C:\\Users\\Vishaal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Vishaal\\Desktop\\gittrail\\obj\\",
+        "projectPath": "C:\\Users\\Vishnu\\Desktop\\Demo\\trail\\gittrail.csproj",
+        "packagesPath": "C:\\Users\\Vishnu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Vishnu\\Desktop\\Demo\\trail\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Vishaal\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Vishnu\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
@@ -59,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.203/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.202/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
