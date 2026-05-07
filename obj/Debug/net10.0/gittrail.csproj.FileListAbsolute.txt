@@ -1,0 +1,14 @@
+C:\Users\Vishaal\Desktop\gittrail\bin\Debug\net10.0\gittrail.exe
+C:\Users\Vishaal\Desktop\gittrail\bin\Debug\net10.0\gittrail.deps.json
+C:\Users\Vishaal\Desktop\gittrail\bin\Debug\net10.0\gittrail.runtimeconfig.json
+C:\Users\Vishaal\Desktop\gittrail\bin\Debug\net10.0\gittrail.dll
+C:\Users\Vishaal\Desktop\gittrail\bin\Debug\net10.0\gittrail.pdb
+C:\Users\Vishaal\Desktop\gittrail\obj\Debug\net10.0\gittrail.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vishaal\Desktop\gittrail\obj\Debug\net10.0\gittrail.AssemblyInfoInputs.cache
+C:\Users\Vishaal\Desktop\gittrail\obj\Debug\net10.0\gittrail.AssemblyInfo.cs
+C:\Users\Vishaal\Desktop\gittrail\obj\Debug\net10.0\gittrail.csproj.CoreCompileInputs.cache
+C:\Users\Vishaal\Desktop\gittrail\obj\Debug\net10.0\gittrail.dll
+C:\Users\Vishaal\Desktop\gittrail\obj\Debug\net10.0\refint\gittrail.dll
+C:\Users\Vishaal\Desktop\gittrail\obj\Debug\net10.0\gittrail.pdb
+C:\Users\Vishaal\Desktop\gittrail\obj\Debug\net10.0\gittrail.genruntimeconfig.cache
+C:\Users\Vishaal\Desktop\gittrail\obj\Debug\net10.0\ref\gittrail.dll
